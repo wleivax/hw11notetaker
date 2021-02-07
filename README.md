@@ -1,8 +1,9 @@
 # hw11notetaker
 
-GitHub Repo https://github.com/wleivax/hw11notetaker
-GitHub Website  https://wleivax.github.io/hw11notetaker/
-Heroku link 
+GitHub Repo: https://github.com/wleivax/hw11notetaker
+GitHub Website:  https://wleivax.github.io/hw11notetaker/
+Heroku link: https://glacial-inlet-18221.herokuapp.com/notes
+
 
 # 11 Express.js: Note Taker
 
